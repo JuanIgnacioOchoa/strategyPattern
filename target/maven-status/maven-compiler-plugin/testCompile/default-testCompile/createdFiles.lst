@@ -1,0 +1,6 @@
+mx\iteso\strategy\behaviors\impl\NormalBounceTest.class
+mx\iteso\strategy\behaviors\impl\NotDefatableTest.class
+mx\iteso\strategy\behaviors\impl\IrregularBounceTest.class
+mx\iteso\strategy\behaviors\impl\ExplodeTest.class
+mx\iteso\strategy\behaviors\impl\NotExplodeTest.class
+mx\iteso\strategy\balls\BaseballBallTest.class
